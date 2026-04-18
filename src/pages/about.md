@@ -4,6 +4,12 @@ title: About
 ---
 AstroPaperz is a minimalz, responsivez and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
+
+
+&nbsp;
+
+I HAVE A 21 INCH PENIS
+
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by
 default and additional color schemes can also be configured.
 
